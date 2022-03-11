@@ -55,7 +55,7 @@ https://LOCATION OF MP3.MP3
 <itunes:explicit>YES/NO</itunes:explicit>
 </item>
 
-... REPEAT <item> for each episode ...
+<!--... REPEAT <item> for each episode ...-->
 
 </channel>
 </rss>
