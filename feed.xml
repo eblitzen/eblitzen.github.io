@@ -1,3 +1,47 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+  <channel>
+
+    <title>The Joy of Painting Podcast</title>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a dui sed justo ultrices dapibus sit amet eget magna. Proin nunc turpis, pulvinar ut pulvinar nec, ullamcorper vitae est. Sed fringilla condimentum efficitur. Mauris varius pulvinar dui a feugiat. Sed nec nisi lacinia, ultrices lectus in, faucibus libero. Mauris sed dolor eleifend, efficitur turpis vel, sagittis nisl. Ut a tristique orci. Mauris sagittis pharetra eros, at aliquet nisl venenatis nec. Donec euismod rhoncus tellus, et congue nulla tincidunt in. Vivamus viverra ipsum ante, nec rhoncus purus posuere quis. Ut hendrerit lacus eu aliquam mollis. Donec lacinia at est at vehicula. Donec non massa ac urna fermentum gravida. Pellentesque finibus mauris enim, non consequat metus ullamcorper quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </description>
+    <link></link>
+    <language>en-us</language>
+    <copyright>Copyright 1983</copyright>
+    <lastBuildDate>Sat, 12 Mar 2022 12:00:00 -0800</lastBuildDate>
+    <pubDate>Tue, 11 Mar 1983 12:00:00 -0800</pubDate>
+    <docs></docs>
+    <webMaster></webMaster>
+
+<!--    <itunes:author>rob @ podcast411</itunes:author> -->
+<!--    <itunes:subtitle>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting </itunes:subtitle> -->
+<!--    <itunes:summary>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting.  Each show we interview a different Podcaster to find out what Podcasts they are listening to, what their show is about, what they are using to create their Podcast and what advice they have for other Podcasters or those looking to become a Podcaster.  Plus we have news, notes and tech tips for Podcasting. </itunes:summary> -->
+
+<!--    <itunes:owner>
+           <itunes:name>Rob W</itunes:name>
+           <itunes:email>rob@podcast411.com</itunes:email>
+    </itunes:owner> -->
+
+<!-- <itunes:explicit>No</itunes:explicit> -->
+
+<!-- <itunes:image href="http://www.podcast411.com/img/411_itunes.jpg"/> -->
+   
+<!-- <itunes:category text="Technology"> -->
+     <itunes:category text="Podcasting"/> -->
+<!-- </itunes:category> -->
+
+<item>
+<title>Episode 001 A Walk in the Woods</title>
+<link></link>
+<guid>https://eblitzen.github.io/mp3s/The.Joy.Of.Painting.001.A.Walk.In.The.Woods.mp3</guid>
+<description> "A Walk in the Woods" (January 11, 1983) </description>
+<enclosure url="https://eblitzen.github.io/mp3s/The.Joy.Of.Painting.001.A.Walk.In.The.Woods.mp3" length="25847805" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 11 Mar 1983 12:00:00 -0800</pubDate>
+
+<!-- <itunes:author>Rob @ podCast411</itunes:author> -->
+=======
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
 <title>The Joy of Paiting Audio Podcast</title>
@@ -54,8 +98,20 @@ https://eblitzen.github.io/mp3s/The.Joy.Of.Painting.001.A.Walk.In.The.Woods
 <pubDate>January 11, 1983</pubDate>
 <itunes:explicit>NO</itunes:explicit>
 </item>
+>>>>>>> 71f9d0a04d0d99f15e972e55bf553ff83b4694b0
 
-<!--... REPEAT <item> for each episode ...-->
+<!-- <itunes:explicit>No</itunes:explicit> -->
+<!-- <itunes:subtitle>Welcome to the show it is March 25th and this is our 138th
+   show.  Today will be an interview with Bruce Murray from the Zedcast
+   podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:subtitle> -->
+<!-- <itunes:summary> Welcome to the show it is March 25th and this is our
+   138th show.  Today will be an interview with Bruce Murray from the
+   Zedcast podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:summary> -->
+<!-- <itunes:duration>00:24:30</itunes:duration> -->
+<!-- <itunes:keywords>podCast411, podcast, podcasting, podcaster, Interviews, Bruce Murray, Zedcast</itunes:keywords> -->
+
+</item>
 
 </channel>
+
 </rss>
