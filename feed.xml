@@ -12,6 +12,7 @@
     <pubDate>Tue, 11 Jan 1983 12:00:00 -0800</pubDate>
     <docs></docs>
     <webMaster></webMaster>
+    <itunes:image href="https://eblitzen.github.io/logo.jpg"/>
 
 <item>
 <title>Episode 001 A Walk in the Woods</title>
@@ -21,6 +22,7 @@
 <enclosure url="https://eblitzen.github.io/mp3s/The.Joy.Of.Painting.001.A.Walk.In.The.Woods.mp3" length="25847805" type="audio/mpeg"/>
 <category></category>
 <pubDate>Tue, 11 Jan 1983 12:00:00 -0800</pubDate>
+<itunes:image href="https://eblitzen.github.io/images/a.walk.in.the.woods.jpg"/>
 </item>
 
 </channel>
